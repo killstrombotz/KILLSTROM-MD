@@ -16,6 +16,49 @@ Change **bot image, prefix, name, commands**, and more with simple commands.
 
 ---
 
+# 🚀 Deployment Options
+
+<p align="center">
+  <!-- Deploy to Heroku Button -->
+  <a href="https://www.heroku.com/deploy?template=https://github.com/killstrombotz/KILLSTROM-MD">
+    <img src="https://img.shields.io/badge/DEPLOY%20TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Deploy to Render Button -->
+  <a href="https://render.com/deploy?repo=https://github.com/killstrombotz/KILLSTROM-MD">
+    <img src="https://img.shields.io/badge/DEPLOY%20TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Deploy to Koyeb Button -->
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/killstrombotz/KILLSTROM-MD">
+    <img src="https://img.shields.io/badge/DEPLOY%20TO-KOYEB-00A0DC?style=for-the-badge&logo=koyeb&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Get Postgres Database Button (Cockroach Labs) -->
+  <a href="https://cockroachlabs.cloud/">
+    <img src="https://img.shields.io/badge/GET-POSTGRES%20DATABASE-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white">
+  </a>
+</p>
+
+---
+
+# ⚡ Installation
+
+```bash
+git clone https://github.com/iTx-Sarkar/SMD-MINI
+cd SMD-MINI
+npm install
+npm start
+```
+
+---
+
 ## ✨ Features
 
 - **Fully Open Source** – edit the codebase, host anywhere (VPS, panel, Heroku, etc.).  
