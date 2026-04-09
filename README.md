@@ -51,8 +51,8 @@ Change **bot image, prefix, name, commands**, and more with simple commands.
 # ⚡ Installation
 
 ```bash
-git clone https://github.com/iTx-Sarkar/SMD-MINI
-cd SMD-MINI
+git clone https://github.com/killstrombotz/KILLSTROM-MD
+cd KILLSTROM-MD
 npm install
 npm start
 ```
